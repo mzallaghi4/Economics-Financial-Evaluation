@@ -7,3 +7,6 @@ Monte Carlo Simulation is a quantitative technique that utilizes random sampling
 Conduct Monte Carlo simulation-based risk analysis for Renewable Energy Project 
 - A 50MW Solar Farm Investment Analysis
 [View code]((https://github.com/mzallaghi4/Economics-Financial-Evaluation/blob/main/Risk%20Analysis/Risk_MCA.ipynb)
+
+```markdown
+[View code](https://github.com/yourusername/yourrepo/blob/main/yourfile.py#L10)
