@@ -20,3 +20,5 @@ TVM Calculations
 - Present Value (lump sum & annuity)
 - Payment calculations
 - Interest rate and period calculations
+
+You can find the TVM calculations in the [TVM Notebook](https://github.com/mzallaghi4/Economics-Financial-Evaluation/blob/main/TVM.ipynb).
