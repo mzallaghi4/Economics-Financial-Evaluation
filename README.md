@@ -10,3 +10,13 @@ The project uses techniques such as:
 - Risk Analysis
 
 in order to model, evaluate, and make decisions regarding investment projects, business strategies, and financial portfolios.
+
+
+#### Time Value of Money (TVM)
+
+
+TVM Calculations
+- Future Value (lump sum & annuity)
+- Present Value (lump sum & annuity)
+- Payment calculations
+- Interest rate and period calculations
