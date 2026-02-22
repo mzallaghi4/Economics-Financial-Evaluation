@@ -53,4 +53,6 @@ Upstream petroleum projects stages :
 Binomial Lattice Model for Oil & Gas Exploration Option.
 
 
-`RealOption_Petroleum_E&P`
+
+[RealOption_Petroleum_E&P](https://github.com/mzallaghi4/Economics-Financial-Evaluation/blob/main/Real%20Options%20Valuation/%20RealOption_Petroleum_E%26P.ipynb)
+
