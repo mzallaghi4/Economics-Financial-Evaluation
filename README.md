@@ -12,6 +12,34 @@ The project uses techniques such as:
 in order to model, evaluate, and make decisions regarding investment projects, business strategies, and financial portfolios.
 
 
+
+# Corporate Finance & Investment Analysis Models
+
+This repository contains practical financial models widely used in investment banking, equity research, private equity, corporate finance, and asset management.
+
+## Topics Covered
+- Financial Statement Analysis
+- Ratio Analysis
+- Discounted Cash Flow (DCF)
+- Comparable Company Analysis
+- Leveraged Buyout (LBO)
+- CAPM
+- WACC
+- Bond Valuation
+- Black-Scholes Option Pricing
+- Monte Carlo Simulation
+- Sensitivity Analysis
+- Scenario Analysis
+
+## Programming
+
+- Python
+- Excel
+- Jupyter Notebook
+
+
+--
+
 #### Time Value of Money (TVM)
 
 
